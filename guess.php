@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Venkata Siva Reddy a71f6abf </title>
+<title>a71f6abf </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
