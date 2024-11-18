@@ -1,6 +1,7 @@
 <html>
+  <title> a71f6abf </title>
 <body>
-<title>a71f6abf </title>
+
 <h1> Welcome to my guessing game</h1>
 
 <?php
